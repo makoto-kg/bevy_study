@@ -1,5 +1,11 @@
 == Readme
 
+=== wasm run
+[source,shell]
+----
+cargo run --bin xxx --target wasm32-unknown-unknown
+----
+
 === wasm build
 [source,shell]
 ----
